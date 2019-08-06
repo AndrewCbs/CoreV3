@@ -1,0 +1,6 @@
+Why use a method for gamemode?
+I decided to use a method because its really simple and its easier for people to look at my code and give me feedback. (I am aware that the method is slower)
+
+What's the purpose of this project?
+The purpose is to create a simple, fast and low memory usage core plugin that is 100% message configurable.
+

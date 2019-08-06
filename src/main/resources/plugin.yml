@@ -1,0 +1,13 @@
+name: CoreV3
+version: ${project.version}
+main: com.andcoo.corev3.corev3
+api-version: 1.13
+description: Version 3.0 of core.
+commands:
+  gm:
+  gmc:
+  gms:
+  gmsp:
+  gma:
+  vanish:
+
